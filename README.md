@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Xucaigou,a CS student.
-- 👀 I’m interested in game,want to do a 2D game myself.
-- 🌱 I’m currently learning AI and Godot.
-- 📫 My mailbox is Xucaigou666@gmail.com, but I probably won't see new information anytime soon.
+-  Hi, I’m Xucaigou,a CS student.
+-  I’m learning Cpp, go, flutter to creat an app.and py to try ai. 
+-  I’m interested in game,want to do a 2D game myself.
+-  I’m currently learning AI and Godot.
+-  My mailbox is Xucaigou666@gmail.com, but I probably won't see new information anytime soon.
 
 
 <!---
